@@ -11,7 +11,7 @@
 I am hoping to change career paths, and become a full time developer. To help me with this, I have decided to try and create my own UI components for use in my website. You can find the project [here](https://github.com/Kvanrooyen/tranquilo-css), any suggestions would be great.
 
 ## Contact and Social
-✏️ [DEV.to](https://dev.to/kvanrooyen)
+✏️ [DEV](https://dev.to/kvanrooyen)
 
 💼 [LinkedIn](https://www.linkedin.com/in/keagan-van-rooyen-69b112182/)
 
