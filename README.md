@@ -1,14 +1,10 @@
-### Hi there 👋
+# Hi, I'm Keagan!
 
-<!--
-**Kvanrooyen/Kvanrooyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+I'm a self-taught backend developer who previously worked at LinkedIn. During my time there, I built automation scripts for a team of annotators and utilized GPT to reduce their workload.
 
-🌱 I’m currently learning web development and Python
+<br/>
 
-## Contact and Social
-✏️ [DEV](https://dev.to/kvanrooyen)
-
-💼 [LinkedIn](https://www.linkedin.com/in/keagan-van-rooyen-69b112182/)
-
-✉️ [Email](mailto:kvanrooyen@outlook.com?subject=[GitHub]%20Profile)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kvanrooyen&show_icons=true&theme=transparent" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=kvanrooyen&theme=transparent&hide_border=true" width="400">
+</p>
